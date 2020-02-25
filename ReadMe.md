@@ -17,6 +17,9 @@ We call it LoggingConsumer. While not very practical, it provides a good introdu
 
 * and many more. . .
 
+### To install Apache Kafka & Zookeeper use the following address, including guide line and commands to install and run on docker
+* [Install and guide for Kafka n Zookeeper By Javad Talebi](https://github.com/JavadTalebiJava/install-kafka-zookeeper-on-docker)
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 

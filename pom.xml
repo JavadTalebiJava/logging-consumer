@@ -12,7 +12,9 @@
     <artifactId>logging-consumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>logging-consumer</name>
-    <description>Demo project for Spring Boot</description>
+    <description>A Spring Cloud Stream application that receives messages coming
+        from the messaging middleware(Apache Kafka)
+    </description>
 
     <properties>
         <java.version>11</java.version>
