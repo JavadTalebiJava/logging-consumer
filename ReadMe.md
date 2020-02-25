@@ -22,7 +22,7 @@ We call it LoggingConsumer. While not very practical, it provides a good introdu
 
 ### Reference Documentation
 For further reference, please consider the following sections:
-
+* [Main reference very important!!](https://cloud.spring.io/spring-cloud-static/spring-cloud-stream/3.0.2.RELEASE/reference/html/spring-cloud-stream.html#spring-cloud-stream-preface-creating-sample-application)
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/maven-plugin/)
 * [Apache Kafka Streams Support](https://docs.spring.io/spring-kafka/docs/current/reference/html/_reference.html#kafka-streams)
