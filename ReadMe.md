@@ -1,7 +1,6 @@
-# Getting Started
-I will show you how to create a Spring Cloud Stream application that receives messages coming 
-from the messaging middleware*(in this case Apache Kafka) and logs received messages to the console.  
-
+## Logging-Consumer Cloud Stream Application
+A Spring Cloud Stream application that receives messages coming 
+from the messaging middleware-in this case Apache Kafka- and logs received messages to the console.  
 We call it LoggingConsumer. While not very practical, it provides a good introduction to some of the main concepts and abstractions.
 
 ### With Spring Cloud Stream, we can: 
